@@ -26,7 +26,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |reportMissingTypeArgument||
 | |reportMissingTypeStubs||
 | |[reportOptionalCall](./sample/reportOptionalCall/main.py)||
-| |reportOptionalContextManager||
+| |[reportOptionalContextManager](./sample/reportOptionalContextManager/main.py)||
 | |[reportOptionalIterable](./sample/reportOptionalIterable/main.py)||
 | |[reportOptionalMemberAccess](./sample/reportOptionalMemberAccess/main.py)||
 | |[reportOptionalOperand](./sample/reportOptionalOperand/main.py)||
