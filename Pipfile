@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+black = "==21.5b1"
+typing = "*"
+typing-extensions = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
