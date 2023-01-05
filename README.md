@@ -1,0 +1,2 @@
+# VSCode_diagnosticSeverityOverrides
+VSCode python.analysis.diagnosticSeverityOverrides sample
