@@ -38,7 +38,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |[reportSelfClsParameterName](./sample/reportSelfClsParameterName/main.py)||
 |x|reportShadowedImports|Diagnostics for files that are overriding a module in the stdlib.|
 |x|reportTypeCommentUsage|Diagnostics for usage of deprecated type comments.|
-|x|reportTypedDictNotRequiredAccess|Diagnostics for an attempt to access a non-required key within a TypedDict without a check for its presence.|
+|x|[reportTypedDictNotRequiredAccess](./sample/reportTypedDictNotRequiredAccess/main.py)|Diagnostics for an attempt to access a non-required key within a TypedDict without a check for its presence.|
 | |[reportUnboundVariable](./sample/reportUnboundVariable/main.py)||
 | |reportUndefinedVariable||
 |x|[reportUninitializedInstanceVariable](./sample/reportUninitializedInstanceVariable/main.py)|Diagnostics for instance variables that are not declared or initialized within class body or `__init__` method.|
