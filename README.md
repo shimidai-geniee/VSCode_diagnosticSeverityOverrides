@@ -59,7 +59,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |[reportUntypedNamedTuple](./sample/reportUntypedNamedTuple/main.py)||
 | |[reportUnusedCallResult](./sample/reportUnusedCallResult/main.py)||
 | |[reportUnusedClass](./sample/reportUnusedClass/main.py)||
-| |reportUnusedCoroutine||
+| |[reportUnusedCoroutine](./sample/reportUnusedCoroutine/main.py)||
 |x|[reportUnusedExpression](./sample/reportUnusedExpression/main.py)|Diagnostics for simple expressions whose value is not used in any way.|
 | |[reportUnusedFunction](./sample/reportUnusedFunction/main.py)||
 | |[reportUnusedImport](./sample/reportUnusedImport/main.py)||
