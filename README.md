@@ -15,7 +15,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |[reportIncompatibleVariableOverride](./sample/reportIncompatibleVariableOverride/main.py)||
 |x|reportIncompleteStub|Diagnostics for the use of a module-level `__getattr__` function, indicating that the stub is incomplete.|
 |x|reportInconsistentConstructor|Diagnostics for `__init__` and `__new__` methods whose signatures are inconsistent.|
-| |reportInvalidStringEscapeSequence||
+| |[reportInvalidStringEscapeSequence](./sample/reportInvalidStringEscapeSequence/main.py)||
 | |reportInvalidStubStatement||
 | |[reportInvalidTypeVarUse](./sample/reportInvalidTypeVarUse/main.py)||
 |x|reportMatchNotExhaustive|Diagnostics for 'match' statements that do not exhaustively match all possible values.|
