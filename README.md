@@ -3,7 +3,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 
 |Undocumented|Value|Description|
 |:-:|:--|:--|
-| |reportAssertAlwaysTrue||
+| |[reportAssertAlwaysTrue](./sample/reportAssertAlwaysTrue/main.py)||
 | |[reportCallInDefaultInitializer](./sample/reportCallInDefaultInitializer/main.py)||
 | |[reportConstantRedefinition](./sample/reportDuplicateImport/main.py)||
 | |[reportDuplicateImport](./sample/reportDuplicateImport/main.py)||
