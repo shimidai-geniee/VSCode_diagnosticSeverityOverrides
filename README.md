@@ -49,7 +49,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |[reportUnknownVariableType](./sample/reportUnknownVariableType/main.py)||
 | |[reportUnnecessaryCast](./sample/reportUnnecessaryCast/main.py)||
 |x|[reportUnnecessaryComparison](./sample/reportUnnecessaryComparison/main.py)|Diagnostics for '==' and '!=' comparisons that are statically determined to be unnecessary. Such calls are sometimes indicative of a programming error.|
-|x|reportUnnecessaryContains|Diagnostics for 'in' operation that is statically determined to be unnecessary. Such operations are sometimes indicative of a programming error.|
+|x|[reportUnnecessaryContains](./sample/reportUnnecessaryContains/main.py)|Diagnostics for 'in' operation that is statically determined to be unnecessary. Such operations are sometimes indicative of a programming error.|
 | |[reportUnnecessaryIsInstance](./sample/reportUnnecessaryIsInstance/main.py)||
 |x|reportUnnecessaryTypeIgnoreComment|Diagnostics for '# type: ignore' comments that have no effect.|
 | |[reportUnsupportedDunderAll](./sample/reportUnsupportedDunderAll/__init__.py)||
