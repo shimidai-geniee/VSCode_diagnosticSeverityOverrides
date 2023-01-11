@@ -10,4 +10,4 @@ class _Hoge:
 
 hoge = _Hoge()
 
-hoge.a
+hoge.a  # Type of "a" is unknown [reportUnknownMemberType]

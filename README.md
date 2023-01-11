@@ -44,7 +44,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 |x|[reportUninitializedInstanceVariable](./sample/reportUninitializedInstanceVariable/main.py)|Diagnostics for instance variables that are not declared or initialized within class body or `__init__` method.|
 | |reportUnknownArgumentType||
 | |reportUnknownLambdaType||
-| |reportUnknownMemberType||
+| |[reportUnknownMemberType](./sample/reportUnknownMemberType/main.py)||
 | |[reportUnknownParameterType](./sample/reportUnknownParameterType/main.py)||
 | |[reportUnknownVariableType](./sample/reportUnknownVariableType/main.py)||
 | |[reportUnnecessaryCast](./sample/reportUnnecessaryCast/main.py)||
