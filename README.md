@@ -5,7 +5,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 |:-:|:--|:--|
 | |[reportAssertAlwaysTrue](./sample/reportAssertAlwaysTrue/main.py)||
 | |[reportCallInDefaultInitializer](./sample/reportCallInDefaultInitializer/main.py)||
-| |[reportConstantRedefinition](./sample/reportDuplicateImport/main.py)||
+| |[reportConstantRedefinition](./sample/reportConstantRedefinition/main.py)||
 | |[reportDuplicateImport](./sample/reportDuplicateImport/main.py)||
 | |[reportFunctionMemberAccess](./sample/reportFunctionMemberAccess/main.py)||
 | |[reportGeneralTypeIssues](./sample/reportgeneralTypeIssues/main.py)||
