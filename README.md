@@ -8,7 +8,7 @@ https://code.visualstudio.com/docs/python/settings-reference#_code-analysis-sett
 | |[reportConstantRedefinition](./sample/reportConstantRedefinition/main.py)||
 | |[reportDuplicateImport](./sample/reportDuplicateImport/main.py)||
 | |[reportFunctionMemberAccess](./sample/reportFunctionMemberAccess/main.py)||
-| |[reportGeneralTypeIssues](./sample/reportgeneralTypeIssues/main.py)||
+| |[reportGeneralTypeIssues](./sample/reportGeneralTypeIssues/main.py)||
 | |[reportImplicitStringConcatenation](./sample/reportImplicitStringConcatenation/main.py)||
 | |reportImportCycles||
 | |[reportIncompatibleMethodOverride](./sample/reportIncompatibleMethodOverride/main.py)||
